@@ -1,0 +1,57 @@
+html,body,div,h1,h2,h3,span{
+
+	margin:0;
+	padding:0;
+}
+img{
+	border:0;
+}
+body{
+	color:#3A3B39;
+	background:url("../images/bodyBg.gif");
+	font:12px "Arial";
+}
+#content{
+	background:#fff;
+	width:75%;
+	margin:5px auto;
+	border-top:1px solid #ccc;
+	padding:5px;
+}
+#container{
+	background:yellow;
+	border:1px solid pink;
+}
+.clearfix{
+	overflow:auto;
+	zoom:1;
+}
+#left{
+	float:left;
+	clear:left;
+	width:25%
+	background:green;
+}
+#right{
+	float:right;
+	clear:right;
+	width:25%;
+	background:gray;
+}
+#main{
+	background:blue;
+	width:50%;
+	float:left;
+}
+
+.news{
+	width:31.9%;
+	float:left;
+	background:#FFF;
+	margin:0 5px 5px 0;
+	border:1px dotted #CCC;
+	}
+
+#footer{
+	clear:both;
+}	

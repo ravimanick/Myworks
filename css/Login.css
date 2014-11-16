@@ -1,0 +1,11 @@
+html,head,body,div,h1,a,ul,li{
+	margin:0;
+	padding:0;
+}
+
+body{
+
+	margin:0px auto;
+	padding:0px auto;
+	background/:black;
+}
